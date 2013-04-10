@@ -10,7 +10,8 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="peckj.20130403092722.1556" a="E"><vh>@file conquest.py</vh></v>
+<v t="peckj.20130403092722.1556" a="E"
+expanded="peckj.20130403092722.1558,peckj.20130403092722.1564,"><vh>@file conquest.py</vh></v>
 </vnodes>
 <tnodes>
 </tnodes>
